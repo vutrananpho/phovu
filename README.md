@@ -18,11 +18,11 @@ I am a CS and UI/UX Design sophomore at [Yonsei](https://www.yonsei.ac.kr/) and 
 - Looking for Internships
 - Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 
-## 🚀 right now I am work
+## 🚀 right now I am working at
 
 - [The Amherst Student](https://amherststudent.com/)
 
 
 ## ✋ Got something to say?
 
-I'm at [facebook](https://www.facebook.com/pvu23/) or [instagram] (https://www.instagram.com/photvu).
+I'm at [facebook](https://www.facebook.com/pvu23/) or [instagram](https://www.instagram.com/photvu).
