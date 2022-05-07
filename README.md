@@ -9,22 +9,22 @@
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/phovu/)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: i love bts & business proposals (the one w/ cha seung-hoon & jin young-seo)
--->
-## fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
+
+## Fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
 
 I am a CS and UI/UX Design sophomore at [Yonsei](https://www.yonsei.ac.kr/) and [Amherst](https://www.amherst.edu/)
 
-## 📚 these days I am
+## 📚 These days I am
 
 - Looking for Internships
 - Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 
-## 🚀 right now I am working at
+## 🚀 Right now I am working at
 
 - [The Amherst Student](https://amherststudent.com/)
 
 
 ## ✋ Got something to say?
 
-I'm active on [facebook](https://www.facebook.com/pvu23/) and [instagram](https://www.instagram.com/photvu).
-But email me at pvu23@amherst.edu for any inquiries!
+I'm active on [Facebook](https://www.facebook.com/pvu23/) and [Instagram](https://www.instagram.com/photvu).
+Just email me at pvu23@amherst.edu for any inquiries!
