@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning R
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with C++
-- 💬 Ask me about Vietnamese, Chinese, and Korean languages
+- 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/phovu/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love bts
@@ -16,13 +16,13 @@ I am a CS and UI/UX Design sophomore at [Yonsei](https://www.yonsei.ac.kr/) and 
 ## 📚 these days I am
 
 - Looking for Internships
-- Studying Computer Science
+- Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 
-## 🚀 right now I am
+## 🚀 right now I am work
 
 - [The Amherst Student](https://amherststudent.com/)
 
 
 ## ✋ Got something to say?
 
-I'm at [facebook](https://www.facebook.com/pvu23/) or [instagram] at `hemingallery`.
+I'm at [facebook](https://www.facebook.com/pvu23/) or [instagram] (https://www.instagram.com/photvu).
