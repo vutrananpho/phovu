@@ -25,4 +25,5 @@ I am a CS and UI/UX Design sophomore at [Yonsei](https://www.yonsei.ac.kr/) and 
 
 ## ✋ Got something to say?
 
-I'm at [facebook](https://www.facebook.com/pvu23/) or [instagram](https://www.instagram.com/photvu).
+I'm active on [facebook](https://www.facebook.com/pvu23/) and [instagram](https://www.instagram.com/photvu).
+But email me at pvu23@amherst.edu for any inquiries!
