@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my bachelor degree in Information & Interaction Design
-- 🌱 I’m currently learning R
+- 🔭 I’m currently working on my bachelor degree in Information & Interaction Design 
+     with micro-majors in Computer Programming & Coginitive Science
+- 🌱 I’m working with Java, Python, HTML, CSS, Ruby, and R at the moment
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
