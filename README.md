@@ -12,6 +12,7 @@
 - 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
 - 📫 Visit my [LinkedIn](https://www.linkedin.com/in/phovu/)
 - 👩🏻‍💼 Pronouns: She/Her
+- 🗣 [Hear my name](https://www.name-coach.com/phovu) 
 - ⚡ Fun fact: I love BTS & Business Proposal (the one w/ Cha Seung-hoon & Jin Young-seo)
 
 ## 📚 Relevant courses I have taken include:
