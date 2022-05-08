@@ -30,7 +30,7 @@
 
 ## 🚀 Right now I am...
 
-- A News and Arts & Living Staff Writer [The Amherst Student](https://amherststudent.com/)
+- Writing articles for [News](https://amherststudent.com/section/news/) and [Arts & Living](https://amherststudent.com/section/arts-and-living/) segment of [The Amherst Student](https://amherststudent.com/)
 - TA-ing 2022's [Techno-Art Capstone Project](http://www.yonseiiid.com/courses/tacp.php) (TAP4001.01-00)
 
 
