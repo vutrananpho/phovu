@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&multiline=true&lines=This+is+Pho;and+I+am+not+your+rice+noodles+%F0%9F%8D%9C)](https://git.io/typing-svg)
 
 - 👩🏻‍💻 I’m currently completing classes towards my bachelor degree in [Information & Interaction Design](https://uic.yonsei.ac.kr/main/major.asp?mid=m02_03_03#mpart)
-- 🧠 I'm also micro-majoring in Computer Programming & Coginitive Science
+- 🧠 I'm also [micro-majoring](https://www.yonsei.ac.kr/en_sc/support/general-notice.jsp?mode=view&article_no=195933&board_wrapper=%2Fen_sc%2Fsupport%2Fgeneral-notice.jsp&pager.offset=0&board_no=187) in Computer Programming & Coginitive Science
 - ⌨️ I’m working with Java, Python, HTML, CSS, Ruby, Swift, and R at the moment
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with C++ and C
