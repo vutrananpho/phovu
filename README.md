@@ -24,14 +24,15 @@ I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.
 - Introduction to Digital Tools
 - Color Design
 
-## 📚 These days I am
+## 📚 These days I am...
 
-- ☑️ Looking for Internships
+- ☑️ Looking for CS internships
 - ☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 
-## 🚀 Right now I am working at
+## 🚀 Right now I am...
 
-- [The Amherst Student](https://amherststudent.com/)
+- A News and Arts & Living Staff Writer [The Amherst Student](https://amherststudent.com/)
+- TA-ing Techno-Art Capstone Project (TAP4001.01-00)
 
 
 ## ✋ Got something to say?
