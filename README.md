@@ -1,6 +1,8 @@
 ### Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&background=FFE30000&multiline=true&lines=This+is+Pho;and+I'm+not+your+rice+noodle+%F0%9F%8D%9C)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&lines=This+is+Pho;and+I+am+not+your+rice+noodles.)](https://git.io/typing-svg)
+
 - 👩🏻‍💻 I’m currently completing classes towards my bachelor degree in Information & Interaction Design 
 - 🧠 I'm also micro-majoring in Computer Programming & Coginitive Science
 - ⌨️ I’m working with Java, Python, HTML, CSS, Ruby, Swift, and R at the moment
