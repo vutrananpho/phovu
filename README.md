@@ -31,7 +31,7 @@
 ## 🚀 Right now I am...
 
 - A News and Arts & Living Staff Writer [The Amherst Student](https://amherststudent.com/)
-- TA-ing 2022's[Techno-Art Capstone Project](http://www.yonseiiid.com/courses/tacp.php)(TAP4001.01-00)
+- TA-ing 2022's [Techno-Art Capstone Project](http://www.yonseiiid.com/courses/tacp.php)(TAP4001.01-00)
 
 
 ## ✋ Got something to say?
