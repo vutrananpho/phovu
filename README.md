@@ -36,4 +36,5 @@ Just email me at pvu23@amherst.edu for any inquiries!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phovu)
 
 </p>
+
 ![snake gif](https://github.com/phovu/phovu/blob/output/github-contribution-grid-snake.gif)
