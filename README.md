@@ -46,8 +46,6 @@ Email me at pvu23@amherst.edu for any inquiries!
 
 [![Pho's github activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
- <!--[Pho's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&theme=xcode)>
-
 
 ## 🐍 Snake eating my contribution graph!
 
@@ -59,3 +57,5 @@ Email me at pvu23@amherst.edu for any inquiries!
 3. [College Observes Sexual Assault Awareness Month](https://amherststudent.com/article/college-observes-sexual-assault-awareness-month/)
 4. [Thoughts on Theses: Sophie Ewing](https://amherststudent.com/article/thoughts-on-theses-sophie-ewing/)
 5. [Student Letter Calls for Transparency in Hiring Practices](https://amherststudent.com/article/student-letter-calls-for-transparency-in-hiring-practices/)
+
+ <!--[Pho's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&theme=xcode)>
