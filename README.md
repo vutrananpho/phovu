@@ -3,7 +3,7 @@
 
 ## ✨ Fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
 
-I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.kr/) and [Amherst College](https://www.amherst.edu/)
+✧･ﾟ: *✧ I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.kr/) and [Amherst College](https://www.amherst.edu/) ✧*:･ﾟ✧ 
 - 👩🏻‍💻 I’m currently completing classes towards my Bachelor of Science (B.Sc.) in [Information & Interaction Design](https://uic.yonsei.ac.kr/main/major.asp?mid=m02_03_03#mpart) offered by Yonsei's [Underwood International College](https://uic.yonsei.ac.kr/main/default.asp)
 - 🧠 I'm also [micro-majoring](https://www.yonsei.ac.kr/en_sc/support/general-notice.jsp?mode=view&article_no=195933&board_wrapper=%2Fen_sc%2Fsupport%2Fgeneral-notice.jsp&pager.offset=0&board_no=187) in Computer Programming & Coginitive Science
 - ⌨️ I’m working with Java, Python, HTML, CSS, Ruby, Swift, and R at the moment
