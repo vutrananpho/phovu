@@ -31,4 +31,6 @@ Just email me at pvu23@amherst.edu for any inquiries!
 
 ## 📊 How am I doing in the Github Community lately? 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phovu&theme=tokyonight)
+![][GitHub Stats](https://github-readme-stats.vercel.app/api?username=phovu&theme=tokyonight)
+![](https://raw.githubusercontent.com/phovu/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/phovu/github-stats/master/generated/languages.svg)
