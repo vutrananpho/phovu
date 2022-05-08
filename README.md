@@ -9,11 +9,14 @@
 - 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/phovu/)
 - 👩🏻‍💼 Pronouns: she/her/hers
-- ⚡ Fun fact: i love bts & business proposals (the one w/ cha seung-hoon & jin young-seo)
+- ⚡ Fun fact: I love bts & business proposals (the one w/ cha seung-hoon & jin young-seo)
 
 ## ✨ Fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
 
 I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.kr/) and [Amherst College](https://www.amherst.edu/)
+
+## 📚 Relevant courses I have taken include:
+- [Introduction to Computer Science I](https://mmalita.people.amherst.edu/COSC111SP2022/COSC111SP2022Syllabus.pdf)
 
 ## 📚 These days I am
 
