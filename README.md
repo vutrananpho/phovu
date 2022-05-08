@@ -7,11 +7,11 @@ I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.
 - 👩🏻‍💻 I’m currently completing classes towards my Bachelor of Science (B.Sc.) in [Information & Interaction Design](https://uic.yonsei.ac.kr/main/major.asp?mid=m02_03_03#mpart) offered by Yonsei's [Underwood International College](https://uic.yonsei.ac.kr/main/default.asp)
 - 🧠 I'm also [micro-majoring](https://www.yonsei.ac.kr/en_sc/support/general-notice.jsp?mode=view&article_no=195933&board_wrapper=%2Fen_sc%2Fsupport%2Fgeneral-notice.jsp&pager.offset=0&board_no=187) in Computer Programming & Coginitive Science
 - ⌨️ I’m working with Java, Python, HTML, CSS, Ruby, Swift, and R at the moment
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate and exchange on open source env
 - 🤔 I’m looking for help with C++ and C
 - 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
 - 📫 Visit my [LinkedIn](https://www.linkedin.com/in/phovu/)
-- 👩🏻‍💼 Pronouns: She/her
+- 👩🏻‍💼 Pronouns: She/Her
 - ⚡ Fun fact: I love BTS & Business Proposal (the one w/ Cha Seung-hoon & Jin Young-seo)
 
 ## 📚 Relevant courses I have taken include:
