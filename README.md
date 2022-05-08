@@ -16,8 +16,8 @@ I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.
 
 ## 📚 These days I am
 
-☑️ Looking for Internships
-☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
+- ☑️ Looking for Internships
+- ☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 
 ## 🚀 Right now I am working at
 
