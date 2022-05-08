@@ -12,12 +12,12 @@
 
 ## ✨ Fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
 
-I am a CS and UI/UX Design sophomore at [Yonsei](https://www.yonsei.ac.kr/) and [Amherst](https://www.amherst.edu/)
+I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.kr/) and [Amherst College](https://www.amherst.edu/)
 
 ## 📚 These days I am
 
-- Looking for Internships
-- Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
+☑️ Looking for Internships
+☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 
 ## 🚀 Right now I am working at
 
