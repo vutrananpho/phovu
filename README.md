@@ -16,10 +16,10 @@
 
 ## 📚 Relevant courses I have taken include:
 - [Introduction to Computer Science I](https://drive.google.com/file/d/1fiwIFOjUVlQWlP2lZ-d2sAGOTpMlO9QM/view?usp=sharing)
+- [Introduction to Information and Interaction Design](http://www.yonseiiid.com/courses/iiid.php)
 - Research Design & Quantitative Method
 - Critical Reasoning
 - Theories and Practices of Public Art
-- Introduction to Information and Interaction Design
 - Introduction to Digital Tools
 - Color Design
 
