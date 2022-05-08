@@ -2,9 +2,9 @@
 
 - 👩🏻‍💻 I’m currently completing classes towards my bachelor degree in Information & Interaction Design 
 - 🧠 I'm also micro-majoring in Computer Programming & Coginitive Science
-- ⌨️ I’m working with Java, Python, HTML, CSS, Ruby, and R at the moment
+- ⌨️ I’m working with Java, Python, HTML, CSS, Ruby, Swift, and R at the moment
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with C++
+- 🤔 I’m looking for help with C++ and C
 - 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/phovu/)
 - 👩🏻‍💼 Pronouns: she/her/hers
@@ -31,4 +31,4 @@ Just email me at pvu23@amherst.edu for any inquiries!
 
 ## 📊 How am I doing in the Github Community lately? 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phovu&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phovu&theme=tokyonight)
