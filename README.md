@@ -1,7 +1,10 @@
 ### Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&multiline=true&lines=This+is+Pho;and+I+am+not+your+rice+noodles+%F0%9F%8D%9C)](https://git.io/typing-svg)
 
-- 👩🏻‍💻 I’m currently completing classes towards my bachelor degree in [Information & Interaction Design](https://uic.yonsei.ac.kr/main/major.asp?mid=m02_03_03#mpart)
+## ✨ Fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
+
+I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.kr/) and [Amherst College](https://www.amherst.edu/)
+- 👩🏻‍💻 I’m currently completing classes towards my Bachelor of Science (B.Sc.) in [Information & Interaction Design](https://uic.yonsei.ac.kr/main/major.asp?mid=m02_03_03#mpart) offered by Yonsei's [Underwood International College](https://uic.yonsei.ac.kr/main/default.asp)
 - 🧠 I'm also [micro-majoring](https://www.yonsei.ac.kr/en_sc/support/general-notice.jsp?mode=view&article_no=195933&board_wrapper=%2Fen_sc%2Fsupport%2Fgeneral-notice.jsp&pager.offset=0&board_no=187) in Computer Programming & Coginitive Science
 - ⌨️ I’m working with Java, Python, HTML, CSS, Ruby, Swift, and R at the moment
 - 👯 I’m looking to collaborate on open source
@@ -10,10 +13,6 @@
 - 📫 Visit my [LinkedIn](https://www.linkedin.com/in/phovu/)
 - 👩🏻‍💼 Pronouns: She/her
 - ⚡ Fun fact: I love BTS & Business Proposal (the one w/ Cha Seung-hoon & Jin Young-seo)
-
-## ✨ Fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
-
-I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.kr/) and [Amherst College](https://www.amherst.edu/)
 
 ## 📚 Relevant courses I have taken include:
 - [Introduction to Computer Science I](https://drive.google.com/file/d/1fiwIFOjUVlQWlP2lZ-d2sAGOTpMlO9QM/view?usp=sharing)
