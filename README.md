@@ -28,3 +28,13 @@ I am a CS and UI/UX Design sophomore at [Yonsei](https://www.yonsei.ac.kr/) and 
 
 I'm active on [Facebook](https://www.facebook.com/pvu23/) and [Instagram](https://www.instagram.com/photvu).
 Just email me at pvu23@amherst.edu for any inquiries!
+
+
+
+
+
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phovu&theme=radical)
