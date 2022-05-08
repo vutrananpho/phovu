@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "THE AMHERST STUDENT"
-          commit_message: "Updated readme with the latest Amherst Student's data"
+          commit_message: "Updated readme with the latest The Amherst Student's data"
           feed_list: "https://amherststudent.com/rss/"
