@@ -37,4 +37,6 @@ Just email me at pvu23@amherst.edu for any inquiries!
 
 </p>
 
+## Snake eating my graph!!
+
 ![snake gif](https://github.com/phovu/phovu/blob/output/github-contribution-grid-snake.gif)
