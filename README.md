@@ -8,8 +8,8 @@
 - 🤔 I’m looking for help with C++ and C
 - 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
 - 📫 Visit my [LinkedIn](https://www.linkedin.com/in/phovu/)
-- 👩🏻‍💼 Pronouns: she/her/hers
-- ⚡ Fun fact: I love bts & business proposals (the one w/ cha seung-hoon & jin young-seo)
+- 👩🏻‍💼 Pronouns: She/her
+- ⚡ Fun fact: I love BTS & Business Proposals (the one w/ Cha Seung-hoon & Jin Young-seo)
 
 ## ✨ Fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
 
