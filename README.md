@@ -16,7 +16,13 @@
 I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.kr/) and [Amherst College](https://www.amherst.edu/)
 
 ## 📚 Relevant courses I have taken include:
-- [Introduction to Computer Science I](https://mmalita.people.amherst.edu/COSC111SP2022/COSC111SP2022Syllabus.pdf)
+- [Introduction to Computer Science I](https://drive.google.com/file/d/1fiwIFOjUVlQWlP2lZ-d2sAGOTpMlO9QM/view?usp=sharing)
+- Research Design & Quantitative Method
+- Critical Reasoning
+- Theories and Practices of Public Art
+- Introduction to Information and Interaction Design
+- Introduction to Digital Tools
+- Color Design
 
 ## 📚 These days I am
 
@@ -38,7 +44,6 @@ Email me at pvu23@amherst.edu for any inquiries!
 ![](https://github-readme-stats.vercel.app/api?username=phovu&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phovu)
 
-</p>
 
 ## 🐍 Snake eating my contribution graph!
 
