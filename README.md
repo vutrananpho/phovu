@@ -34,5 +34,5 @@ Just email me at pvu23@amherst.edu for any inquiries!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phovu)](https://github.com/phovu/github-readme-stats)
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=phovu&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phovu&theme=tokyonight)
 
