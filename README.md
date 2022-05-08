@@ -1,6 +1,5 @@
 ### Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&multiline=true&lines=This+is+Pho;and+I+am+not+your+rice+noodles+%F0%9F%8D%9C)](https://git.io/typing-svg)
-![](https://visitor-badge.glitch.me/badge?page_id=phovu.phovu)
 ## ✨ Fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
 
 ✧･ﾟ: *✧ I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.kr/) and [Amherst College](https://www.amherst.edu/) ✧*:･ﾟ✧ 
@@ -40,7 +39,7 @@
 I'm active on [Facebook](https://www.facebook.com/pvu23/) and [Instagram](https://www.instagram.com/photvu).
 Email me at pvu23@amherst.edu for any inquiries!
 
-## 📊 How am I doing in the Github Community lately? 
+## 📊 How am I doing in the Github Community lately? ![](https://visitor-badge.glitch.me/badge?page_id=phovu.phovu)
 
 ![](https://github-readme-stats.vercel.app/api?username=phovu&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phovu)
