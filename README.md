@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with C++ and C
 - 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/phovu/)
+- 📫 Visit my [LinkedIn](https://www.linkedin.com/in/phovu/)
 - 👩🏻‍💼 Pronouns: she/her/hers
 - ⚡ Fun fact: I love bts & business proposals (the one w/ cha seung-hoon & jin young-seo)
 
@@ -31,7 +31,7 @@ I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.
 ## ✋ Got something to say?
 
 I'm active on [Facebook](https://www.facebook.com/pvu23/) and [Instagram](https://www.instagram.com/photvu).
-Just email me at pvu23@amherst.edu for any inquiries!
+Email me at pvu23@amherst.edu for any inquiries!
 
 ## 📊 How am I doing in the Github Community lately? 
 
