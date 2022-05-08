@@ -49,6 +49,9 @@ Email me at pvu23@amherst.edu for any inquiries!
 
 ![snake gif](https://github.com/phovu/phovu/blob/output/github-contribution-grid-snake.gif)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## ⌄ Read my latest articles here 
+1. [Jeremy Koo ’12 Discusses his Path from Amherst to Sustainability Consulting](https://amherststudent.com/article/jeremy-koo-discusses-his-path-from-amherst-to-sustainability-consulting/)
+2. [Lily Fang ’18 Discusses Fast Fashion, Sustainable Alternatives](https://amherststudent.com/article/lily-fang-18-discusses-fast-fashion-sustainable-alternatives/)
+3. [College Observes Sexual Assault Awareness Month](https://amherststudent.com/article/college-observes-sexual-assault-awareness-month/)
+4. [Thoughts on Theses: Sophie Ewing](https://amherststudent.com/article/thoughts-on-theses-sophie-ewing/)
+5. [Student Letter Calls for Transparency in Hiring Practices](https://amherststudent.com/article/student-letter-calls-for-transparency-in-hiring-practices/)
