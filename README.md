@@ -8,7 +8,7 @@
 - 🧠 I'm also [micro-majoring](https://www.yonsei.ac.kr/en_sc/support/general-notice.jsp?mode=view&article_no=195933&board_wrapper=%2Fen_sc%2Fsupport%2Fgeneral-notice.jsp&pager.offset=0&board_no=187) in Computer Programming & Coginitive Science
 - ⌨️ I’m working with ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white), ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white), ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white), and ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) at the moment
 - 👯 I’m looking to collaborate and exchange on open source env
-- 🤔 I’m looking for help with ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) and ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- 🤔 I’m looking for help with ![C](![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) and ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
 - 📫 Visit my [LinkedIn](https://www.linkedin.com/in/phovu/)
 - 👩🏻‍💼 Pronouns: She/Her
