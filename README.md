@@ -48,7 +48,7 @@ Email me at pvu23@amherst.edu for any inquiries!
 [![Pho's github activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
-## 🐍 Snake eating my contribution graph!
+## 🐍 I was born in the year of the Snake so...
 
 ![snake gif](https://github.com/phovu/phovu/blob/output/github-contribution-grid-snake.gif)
 
