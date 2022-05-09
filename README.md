@@ -26,7 +26,7 @@
 
 ## 📚 These days I am...
 
-- ☑️ Looking for CS internships
+- ☑️ Looking for CS & UI/UX internships
 - ☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 
 ## 🚀 Right now I am...
