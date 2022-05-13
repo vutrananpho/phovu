@@ -24,7 +24,7 @@
 - Introduction to Digital Tools
 - Color Design
 
-## 📚 These days I am...
+## 👩🏻‍💼 These days I am...
 
 - ☑️ Looking for CS & UI/UX internships
 - ☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
