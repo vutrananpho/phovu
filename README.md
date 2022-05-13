@@ -30,7 +30,7 @@
 - ☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 
 ## 🚀 Right now I am...
-
+- Faciliating Amherst Colleges's [Commencement](https://www.amherst.edu/news/events/commencement/class-of-2022-commencement/schedule) & [Reunion](https://www.amherst.edu/alumni/events/reunion/schedule/2022-schedule) 2022
 - Writing articles for [News](https://amherststudent.com/section/news/) and [Arts & Living](https://amherststudent.com/section/arts-and-living/) segment of [The Amherst Student](https://amherststudent.com/)
 - TA-ing 2022's [Techno-Art Capstone Project](http://www.yonseiiid.com/courses/tacp.php) (TAP4001.01-00)
 
