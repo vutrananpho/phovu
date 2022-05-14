@@ -59,7 +59,7 @@ Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to
 3. [College Observes Sexual Assault Awareness Month](https://amherststudent.com/article/college-observes-sexual-assault-awareness-month/)
 4. [Thoughts on Theses: Sophie Ewing](https://amherststudent.com/article/thoughts-on-theses-sophie-ewing/)
 5. [Student Letter Calls for Transparency in Hiring Practices](https://amherststudent.com/article/student-letter-calls-for-transparency-in-hiring-practices/)
-6. [
-7. 
+6. [Acclimating to Academics Abroad: Exchange Students Explain](https://amherststudent.com/article/acclimating-to-academics-abroad-exchange-students-explain/)
+7. [Fresh Faculty: Rose Lenehan](https://amherststudent.com/article/fresh-faculty-rose-lenehan/)
 
  <!--[Pho's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&theme=xcode)>
