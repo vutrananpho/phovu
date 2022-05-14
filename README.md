@@ -53,7 +53,7 @@ Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to
 [![Pho's github activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/phovu/github-readme-activity-graph)
  
 
-## 🐍 I was born in the year of the Snake so...
+## 🐍🐍🐍 I was born in the Year of the Snake heh 
 
 ![snake gif](https://github.com/phovu/phovu/blob/output/github-contribution-grid-snake.gif)
 
