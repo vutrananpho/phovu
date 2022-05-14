@@ -37,7 +37,7 @@
 
 ## ✋ Got something to say?
 
-I'm also active on [![Facebook Badge](https://img.shields.io/badge/-Pho Vu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/vutrananpho/)](https://www.facebook.com/in/vutrananpho/) and [Instagram](https://www.instagram.com/photvu).
+I'm also active on [![Facebook Badge](https://img.shields.io/badge/-PhoVu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/vutrananpho/)](https://www.facebook.com/in/vutrananpho/) and [Instagram](https://www.instagram.com/photvu).
 Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to get back to you.
 
 ## 📊 How am I doing in the Github Community lately? ![](https://visitor-badge.glitch.me/badge?page_id=phovu.phovu)
