@@ -37,7 +37,7 @@
 
 ## ✋ Got something to say?
 
-I'm also active on [Facebook](https://www.facebook.com/pvu23/) and [Instagram](https://www.instagram.com/photvu).
+I'm also active on [Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) and [Instagram](https://www.instagram.com/photvu).
 Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to get back to you.
 
 ## 📊 How am I doing in the Github Community lately? ![](https://visitor-badge.glitch.me/badge?page_id=phovu.phovu)
