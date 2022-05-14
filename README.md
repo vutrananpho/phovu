@@ -1,8 +1,6 @@
 ### Hi there 👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&multiline=true&lines=This+is+Pho;and+I+am+not+your+rice+noodles+%F0%9F%8D%9C)](https://git.io/typing-svg)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
-
 ## ✨ Fancy seeing you here! <img src="https://media4.giphy.com/media/3oEjI4sFlp73fvEYgw/200.gif" width="30px">
 
 ✧･ﾟ: *✧ I am a CS and UI/UX Design student at [Yonsei University](https://www.yonsei.ac.kr/) and [Amherst College](https://www.amherst.edu/) ✧*:･ﾟ✧ 
