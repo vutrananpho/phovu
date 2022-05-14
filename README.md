@@ -18,11 +18,11 @@
 ## 📚 Relevant courses I have taken include:
 - [Introduction to Computer Science I](https://drive.google.com/file/d/1fiwIFOjUVlQWlP2lZ-d2sAGOTpMlO9QM/view?usp=sharing)
 - [Introduction to Information and Interaction Design](http://www.yonseiiid.com/courses/iiid.php)
-- Research Design & Quantitative Method
-- Critical Reasoning
-- Theories and Practices of Public Art
-- Introduction to Digital Tools
-- Color Design
+- [Research Design & Quantitative Method](https://uic.yonsei.ac.kr/main/downloadfile.asp?uid=1969&mid=m06_01_02&cmid=m06_01_02&bid=30&sOpt=&pact=&hSel=&hYear=2015)
+- [Critical Reasoning](https://drive.google.com/file/d/1aXNWlC0c2fyEWPmPWbs5aZbt04Jx30lr/view?usp=sharing)
+- [Theories and Practices of Public Art](http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=IID2013&bb=01&sbb=00&domain=H1&startyy=2021&hakgi=2&ohak=1012)
+- [Introduction to Digital Tools](http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=IID1008&bb=01&sbb=00&domain=H1&startyy=2021&hakgi=1&ohak=1818)
+- [Color Design](https://yonseiiid.wixsite.com/20211-iid-exhibition/color-design-1)
 
 ## 👩🏻‍💼 These days I am...
 
