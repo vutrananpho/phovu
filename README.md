@@ -41,9 +41,10 @@ I'm also active on [Facebook](https://www.facebook.com/pvu23/) and [Instagram](h
 Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to get back to you.
 
 ## 📊 How am I doing in the Github Community lately? ![](https://visitor-badge.glitch.me/badge?page_id=phovu.phovu)
-
-![](https://github-readme-stats.vercel.app/api?username=phovu&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phovu)
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phovu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phovu&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
 [![Pho's github activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
