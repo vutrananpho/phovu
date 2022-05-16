@@ -73,3 +73,33 @@ Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to
 :seven: [Fresh Faculty: Rose Lenehan](https://amherststudent.com/article/fresh-faculty-rose-lenehan/)
 
  <!--[Pho's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&theme=xcode)>
+
+- - -
+
+<a href="https://phovu.github.io">
+    <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
+</a>
+
+<a href="mailto:pvu23@amherst.edu">
+    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+</a>
+
+<a href="https://paypal.me/vutrananpho">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+</a>
+
+<a href="https://www.buymeacoffee.com/phovu">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
+</a>
+
+<a href="https://liberapay.com/phovu/">
+    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
+</a>
+
+<a href="https://www.instagram.com/photvu">
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
+
+<a href="https://dribbble.com/phovu">
+    <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
+</a>
