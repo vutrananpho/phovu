@@ -13,7 +13,7 @@
 - 📫 Visit my [![Linkedin Badge](https://img.shields.io/badge/-phovu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phovu/)](https://www.linkedin.com/in/phovu/)
 - 👩🏻‍💼 Pronouns: She/Her
 - 🗣 [Hear my name](https://www.name-coach.com/phovu) 
-- ⚡ Fun fact: I love BTS & Business Proposal (the one w/ Cha Seung-hoon & Jin Young-seo)
+- ⚡ Fun fact: I love BTS, Business Proposal (the one w/ Cha Seung-hoon & Jin Young-seo), Touchdesigner!
 
 ## 📚 Relevant courses I have taken include:
 **UI/UX + CompSci**
