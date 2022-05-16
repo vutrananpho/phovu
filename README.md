@@ -34,7 +34,7 @@
 
 ## 👩🏻‍💼 These days I am...
 ```diff
-# ☑️ Looking for CS & UI/UX internships
+@@ ☑️ Looking for CS & UI/UX internships @@
 # ☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 ```
 ## 🚀 Right now I am...
