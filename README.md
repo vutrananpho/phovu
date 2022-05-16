@@ -54,6 +54,20 @@ Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phovu&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+// etc.
+
 [![Pho's github activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/phovu/github-readme-activity-graph)
 
 ## 🐍 I was born in the Year of the Snake heh 
