@@ -33,7 +33,7 @@
 - [Freshman Writing Intensive Seminar](http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=UIC1101&bb=03&sbb=00&domain=H1&startyy=2020&hakgi=2&ohak=1805)
 
 ## 👩🏻‍💼 These days I am...
-```
+```diff
 # ☑️ Looking for CS & UI/UX internships
 # ☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
 ```
