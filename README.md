@@ -35,7 +35,7 @@
 ## 👩🏻‍💼 These days I am...
 ```diff
 @@ ☑️ Looking for CS & UI/UX internships @@
-# ☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
+@@ ☑️ Studying programming languages (Java, Python, Ruby, HTML, CSS, & Swift!) @@
 ```
 ## 🚀 Right now I am...
 - Faciliating Amherst Colleges's [Commencement](https://www.amherst.edu/news/events/commencement/class-of-2022-commencement/schedule) & [Reunion](https://www.amherst.edu/alumni/events/reunion/schedule/2022-schedule) 2022
