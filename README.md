@@ -33,15 +33,14 @@
 - [Freshman Writing Intensive Seminar](http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=UIC1101&bb=03&sbb=00&domain=H1&startyy=2020&hakgi=2&ohak=1805)
 
 ## 👩🏻‍💼 These days I am...
-
+```
 - ☑️ Looking for CS & UI/UX internships
 - ☑️ Studying Computer Science (Java, Python, Ruby, HTML, CSS, & Swift!)
-
+```
 ## 🚀 Right now I am...
 - Faciliating Amherst Colleges's [Commencement](https://www.amherst.edu/news/events/commencement/class-of-2022-commencement/schedule) & [Reunion](https://www.amherst.edu/alumni/events/reunion/schedule/2022-schedule) 2022
 - Writing articles for [News](https://amherststudent.com/section/news/) and [Arts & Living](https://amherststudent.com/section/arts-and-living/) segment of [The Amherst Student](https://amherststudent.com/)
 - TA-ing 2022's [Techno-Art Capstone Project](http://www.yonseiiid.com/courses/tacp.php) (TAP4001.01-00)
-
 
 ## ✋ Got something to say?
 
@@ -53,20 +52,6 @@ Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phovu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phovu&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
-```json
-   // code for coloring
-```
-```html
-   // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
-// etc.
 
 [![Pho's github activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/phovu/github-readme-activity-graph)
 
