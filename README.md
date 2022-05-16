@@ -72,9 +72,7 @@ Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to
 
 :seven: [Fresh Faculty: Rose Lenehan](https://amherststudent.com/article/fresh-faculty-rose-lenehan/)
 
- <!--[Pho's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&theme=xcode)>
-
-- - -
+ <!--[Pho's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&theme=xcode)> -->
 
 <a href="https://phovu.github.io">
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
