@@ -18,7 +18,7 @@
 ## 📚 Relevant courses I have taken include:
 **UI/UX + CompSci**
 - [Introduction to Computer Science I](https://drive.google.com/file/d/1fiwIFOjUVlQWlP2lZ-d2sAGOTpMlO9QM/view?usp=sharing)
-- [Introduction to Computer Science II]
+- [Introduction to Computer Science II](https://mmalita.people.amherst.edu/COSC112SP2022/COSC112SP2022Syllabus.pdf)
 - [Computer Systems]()
 - [Networks]()
 - [Data Structure](https://willrosenbaum.com/assets/pdf/2022s-cosc-211/syllabus.pdf)
