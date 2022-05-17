@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love BTS, Business Proposal (the one w/ Cha Seung-hoon & Jin Young-seo), & Touchdesigner!
 
 ## 📚 Relevant courses I have taken include:
-**UI/UX + CompSci**
+**UI/UX + CompSci + CogSci**
 - [Introduction to Computer Science I](https://drive.google.com/file/d/1fiwIFOjUVlQWlP2lZ-d2sAGOTpMlO9QM/view?usp=sharing)
 - [Introduction to Computer Science II](https://mmalita.people.amherst.edu/COSC112SP2022/COSC112SP2022Syllabus.pdf)
 - [Computer Systems]()
@@ -27,11 +27,16 @@
 - [Introduction to Digital Tools](http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=IID1008&bb=01&sbb=00&domain=H1&startyy=2021&hakgi=1&ohak=1818)
 - [Color Design](http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=IID1006&bb=01&sbb=00&domain=H1&startyy=2021&hakgi=1&ohak=1818)
 - [3D Printing](https://www.kcl.ac.uk/short-courses/3d-printing)
+- [Psychology: The Mind & Body](https://www.kcl.ac.uk/short-courses/psychology-the-mind-body)
 
 **Composition**
 - [Research Design & Quantitative Method](https://uic.yonsei.ac.kr/main/downloadfile.asp?uid=1969&mid=m06_01_02&cmid=m06_01_02&bid=30&sOpt=&pact=&hSel=&hYear=2015)
 - [Critical Reasoning](https://drive.google.com/file/d/1aXNWlC0c2fyEWPmPWbs5aZbt04Jx30lr/view?usp=sharing)
 - [Freshman Writing Intensive Seminar](http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=UIC1101&bb=03&sbb=00&domain=H1&startyy=2020&hakgi=2&ohak=1805)
+- [Intimate Film Cultures](https://www.amherst.edu/academiclife/departments/courses/2122S/ENGL/ENGL-383-2122S)
+- [Three, Two, One: Reading Small Drama](https://www.amherst.edu/academiclife/departments/courses/2122S/ENGL/ENGL-231-2122S)
+- [Films That Try](https://www.amherst.edu/academiclife/departments/courses/2122S/ARHA/ARHA-444-2122S)
+-- [Essay Film Production Poster](https://directory.amherst.edu/academiclife/departments/art/a-calendar/node/841531)
 
 ## 👩🏻‍💼 These days I am...
 ```diff
