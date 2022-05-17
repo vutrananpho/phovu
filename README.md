@@ -36,7 +36,7 @@
 - [Intimate Film Cultures](https://www.amherst.edu/academiclife/departments/courses/2122S/ENGL/ENGL-383-2122S)
 - [Three, Two, One: Reading Small Drama](https://www.amherst.edu/academiclife/departments/courses/2122S/ENGL/ENGL-231-2122S)
 - [Films That Try](https://www.amherst.edu/academiclife/departments/courses/2122S/ARHA/ARHA-444-2122S)
--- [Essay Film Production Poster](https://directory.amherst.edu/academiclife/departments/art/a-calendar/node/841531)
+    - [Essay Film Production Poster](https://directory.amherst.edu/academiclife/departments/art/a-calendar/node/841531)
 
 ## 👩🏻‍💼 These days I am...
 ```diff
