@@ -63,7 +63,6 @@ Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to
 
 ## 🐍 I was born in the Year of the Snake
 ![snake gif](https://github.com/phovu/phovu/blob/output/github-contribution-grid-snake.gif)
-
 ## 📖 Read my latest articles here!
 :one: [Jeremy Koo ’12 Discusses his Path from Amherst to Sustainability Consulting](https://amherststudent.com/article/jeremy-koo-discusses-his-path-from-amherst-to-sustainability-consulting/)
 
