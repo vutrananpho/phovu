@@ -15,8 +15,8 @@
 - 🗣 [Hear my name](https://www.name-coach.com/phovu) 
 - ⚡ Fun fact: I love BTS, Business Proposal (the one w/ Cha Seung-hoon & Jin Young-seo), & Touchdesigner!
 
-## 📚 Relevant courses I have taken include:
-**UI/UX + CompSci + CogSci**
+## 📚 I have taken...
+**UI/UX + CompSci + CogSci** 🧠
 - [Introduction to Computer Science I](https://drive.google.com/file/d/1fiwIFOjUVlQWlP2lZ-d2sAGOTpMlO9QM/view?usp=sharing)
 - [Introduction to Computer Science II](https://mmalita.people.amherst.edu/COSC112SP2022/COSC112SP2022Syllabus.pdf)
 - [Computer Systems]()
@@ -29,7 +29,7 @@
 - [3D Printing](https://www.kcl.ac.uk/short-courses/3d-printing)
 - [Psychology: The Mind & Body](https://www.kcl.ac.uk/short-courses/psychology-the-mind-body)
 
-**Composition**
+**Composition** ✍️
 - [Research Design & Quantitative Method](https://uic.yonsei.ac.kr/main/downloadfile.asp?uid=1969&mid=m06_01_02&cmid=m06_01_02&bid=30&sOpt=&pact=&hSel=&hYear=2015)
 - [Critical Reasoning](https://drive.google.com/file/d/1aXNWlC0c2fyEWPmPWbs5aZbt04Jx30lr/view?usp=sharing)
 - [Freshman Writing Intensive Seminar](http://ysweb.yonsei.ac.kr:8888/curri120601/curri_pop2.jsp?&hakno=UIC1101&bb=03&sbb=00&domain=H1&startyy=2020&hakgi=2&ohak=1805)
@@ -63,6 +63,7 @@ Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to
 
 ## 🐍 I was born in the Year of the Snake heh 
 ![snake gif](https://github.com/phovu/phovu/blob/output/github-contribution-grid-snake.gif)
+
 ## 📖 Read my latest articles here 
 :one: [Jeremy Koo ’12 Discusses his Path from Amherst to Sustainability Consulting](https://amherststudent.com/article/jeremy-koo-discusses-his-path-from-amherst-to-sustainability-consulting/)
 
