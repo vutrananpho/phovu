@@ -61,10 +61,10 @@ Email me at pvu23@amherst.edu for any inquiries! I may take 3-5 business days to
 
 [![Pho's github activity graph](https://activity-graph.herokuapp.com/graph?username=phovu&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/phovu/github-readme-activity-graph)
 
-## 🐍 I was born in the Year of the Snake heh 
+## 🐍 I was born in the Year of the Snake
 ![snake gif](https://github.com/phovu/phovu/blob/output/github-contribution-grid-snake.gif)
 
-## 📖 Read my latest articles here 
+## 📖 Read my latest articles here!
 :one: [Jeremy Koo ’12 Discusses his Path from Amherst to Sustainability Consulting](https://amherststudent.com/article/jeremy-koo-discusses-his-path-from-amherst-to-sustainability-consulting/)
 
 :two: [Lily Fang ’18 Discusses Fast Fashion, Sustainable Alternatives](https://amherststudent.com/article/lily-fang-18-discusses-fast-fashion-sustainable-alternatives/)
