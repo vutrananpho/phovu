@@ -10,9 +10,9 @@
 - 👯 I’m looking to collaborate and exchange on open source environment
 - 🤔 I’m looking for help with ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) and ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - 💬 Ask me about Vietnamese, Chinese, Korean, and Japanese languages
-- 📫 Visit my [![Linkedin Badge](https://img.shields.io/badge/-phovu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phovu/)](https://www.linkedin.com/in/phovu/)
+- 📫 Visit my [![Linkedin Badge](https://img.shields.io/badge/-vutrananpho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vutrananpho/)](https://www.linkedin.com/in/vutrananpho/)
 - 👩🏻‍💼 Pronouns: She/Her
-- 🗣 [Hear my name](https://www.name-coach.com/phovu) 
+- 🗣 [Hear my name](https://www.name-coach.com/vutrananpho) 
 - ⚡ Fun fact: I love BTS, Business Proposal (the one w/ Cha Seung-hoon & Jin Young-seo), & TouchDesigner!
 
 ## 📚 I have taken...
